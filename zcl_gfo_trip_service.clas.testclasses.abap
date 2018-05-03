@@ -140,7 +140,7 @@ CLASS ltc_gfo_trip_service IMPLEMENTATION.
 
     CLEAR: mo_trip_service.
 
-    "Comment
+    "Comment 1.2
 
   ENDMETHOD.
 
